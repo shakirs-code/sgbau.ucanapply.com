@@ -1,0 +1,38 @@
+*{
+    background-color: ;
+}
+
+body {
+    width: auto;
+    padding: 20px;
+    position: absolute;
+    
+}
+
+header {
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+}
+
+p{
+    font-size: medium;
+}
+
+span{
+    color: red;
+    font-size: large;
+    
+}
+
+#btn1{
+    background: #ffb22bcb;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+#btn2{
+    background: #ff5f2b;
+    padding: 0.3rem;
+    border-radius: 5px;
+    
+}
